@@ -1,0 +1,40 @@
+1638957565849	geckodriver	INFO	geckodriver 0.20.1
+1638957565959	geckodriver	INFO	Listening on 127.0.0.1:18089
+1638957569008	mozrunner::runner	INFO	Running command: "C:\\Program Files(x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\fzj20\\AppData\\Local\\Temp\\rust_mozprofile.G9sh8sfVeDep"
+1638957569702	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\fzj20\AppData\Local\openvr\openvrpaths.vrpath
+1638957570781	Marionette	INFO	Enabled via --marionette
+1638957576391	Marionette	INFO	Listening on port 18099
+1638957576438	Marionette	WARN	TLS certificate errors will be ignored for this session
+1638957624665	Marionette	INFO	New connections will no longer be accepted
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1638957633375	geckodriver	INFO	geckodriver 0.20.1
+1638957633405	geckodriver	INFO	Listening on 127.0.0.1:18298
+1638957636495	mozrunner::runner	INFO	Running command: "C:\\Program Files(x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\fzj20\\AppData\\Local\\Temp\\rust_mozprofile.yqE8HlRvE1oL"
+1638957636913	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\fzj20\AppData\Local\openvr\openvrpaths.vrpath
+1638957637822	Marionette	INFO	Enabled via --marionette
+1638957641476	Marionette	INFO	Listening on port 18308
+1638957642758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1638957666185	Marionette	INFO	New connections will no longer be accepted
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1638957868454	geckodriver	INFO	geckodriver 0.20.1
+1638957868484	geckodriver	INFO	Listening on 127.0.0.1:18511
+1638957871714	mozrunner::runner	INFO	Running command: "C:\\Program Files(x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\fzj20\\AppData\\Local\\Temp\\rust_mozprofile.ovd2IQlTchFT"
+1638957872140	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\fzj20\AppData\Local\openvr\openvrpaths.vrpath
+1638957873154	Marionette	INFO	Enabled via --marionette
+1638957876634	Marionette	INFO	Listening on port 18520
+1638957877967	Marionette	WARN	TLS certificate errors will be ignored for this session
+1638957890696	Marionette	INFO	New connections will no longer be accepted
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1638967411847	geckodriver	INFO	geckodriver 0.20.1
+1638967411877	geckodriver	INFO	Listening on 127.0.0.1:24973
+1638967414977	mozrunner::runner	INFO	Running command: "C:\\Program Files(x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\fzj20\\AppData\\Local\\Temp\\rust_mozprofile.X7D98j1M13vg"
+1638967415644	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\fzj20\AppData\Local\openvr\openvrpaths.vrpath
+1638967416645	Marionette	INFO	Enabled via --marionette
+1638967420074	Marionette	INFO	Listening on port 24984
+1638967421320	Marionette	WARN	TLS certificate errors will be ignored for this session
+1638967435423	Marionette	INFO	New connections will no longer be accepted
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping

@@ -1,0 +1,68 @@
+2021-12-11 15:19:11,255 INFO [root] [page_login.py (page_login: 71)] - 正在调用登录业务方法，用户名：17875512080 密码：au123456 
+2021-12-11 15:19:12,256 INFO [root] [base.py (base_click: 41)] - 正在对：('xpath', "//* [text()='登录']")元素进行点击操作 
+2021-12-11 15:19:12,256 INFO [root] [base.py (base_find: 15)] - 正在查找：('xpath', "//* [text()='登录']")元素 
+2021-12-11 15:19:15,229 INFO [root] [base.py (base_click: 41)] - 正在对：('css selector', '.toggleRight')元素进行点击操作 
+2021-12-11 15:19:15,230 INFO [root] [base.py (base_find: 15)] - 正在查找：('css selector', '.toggleRight')元素 
+2021-12-11 15:19:15,336 INFO [root] [base.py (base_find: 15)] - 正在查找：('css selector', '#mobile')元素 
+2021-12-11 15:19:16,364 INFO [root] [base.py (base_input: 32)] - 正在对：('css selector', '#mobile')元素进行清空操作 
+2021-12-11 15:19:16,400 INFO [root] [base.py (base_input: 35)] - 正在对：('css selector', '#mobile')元素 输入：17875512080内容操作 
+2021-12-11 15:19:16,541 INFO [root] [base.py (base_find: 15)] - 正在查找：('css selector', '#password')元素 
+2021-12-11 15:19:17,559 INFO [root] [base.py (base_input: 32)] - 正在对：('css selector', '#password')元素进行清空操作 
+2021-12-11 15:19:17,608 INFO [root] [base.py (base_input: 35)] - 正在对：('css selector', '#password')元素 输入：au123456内容操作 
+2021-12-11 15:19:19,752 INFO [root] [base.py (base_click: 41)] - 正在对：('css selector', '#submitButton')元素进行点击操作 
+2021-12-11 15:19:19,752 INFO [root] [base.py (base_find: 15)] - 正在查找：('css selector', '#submitButton')元素 
+2021-12-11 15:19:21,818 INFO [root] [base.py (base_get_text: 47)] - 正在获取：('css selector', " a[class='phonelink'] span")元素的文本操作 
+2021-12-11 15:19:21,818 INFO [root] [base.py (base_find: 15)] - 正在查找：('css selector', " a[class='phonelink'] span")元素 
+2021-12-11 15:19:32,525 INFO [root] [page_login.py (page_login_success: 80)] - 正在调用登录业务方法，用户名：17875512080 密码：au123456 
+2021-12-11 15:19:33,526 INFO [root] [base.py (base_click: 41)] - 正在对：('xpath', "//* [text()='登录']")元素进行点击操作 
+2021-12-11 15:19:33,526 INFO [root] [base.py (base_find: 15)] - 正在查找：('xpath', "//* [text()='登录']")元素 
+2021-12-11 15:19:36,285 INFO [root] [base.py (base_click: 41)] - 正在对：('css selector', '.toggleRight')元素进行点击操作 
+2021-12-11 15:19:36,285 INFO [root] [base.py (base_find: 15)] - 正在查找：('css selector', '.toggleRight')元素 
+2021-12-11 15:19:36,405 INFO [root] [base.py (base_find: 15)] - 正在查找：('css selector', '#mobile')元素 
+2021-12-11 15:19:37,440 INFO [root] [base.py (base_input: 32)] - 正在对：('css selector', '#mobile')元素进行清空操作 
+2021-12-11 15:19:37,519 INFO [root] [base.py (base_input: 35)] - 正在对：('css selector', '#mobile')元素 输入：17875512080内容操作 
+2021-12-11 15:19:37,777 INFO [root] [base.py (base_find: 15)] - 正在查找：('css selector', '#password')元素 
+2021-12-11 15:19:38,814 INFO [root] [base.py (base_input: 32)] - 正在对：('css selector', '#password')元素进行清空操作 
+2021-12-11 15:19:38,869 INFO [root] [base.py (base_input: 35)] - 正在对：('css selector', '#password')元素 输入：au123456内容操作 
+2021-12-11 15:19:41,025 INFO [root] [base.py (base_click: 41)] - 正在对：('css selector', '#submitButton')元素进行点击操作 
+2021-12-11 15:19:41,025 INFO [root] [base.py (base_find: 15)] - 正在查找：('css selector', '#submitButton')元素 
+2021-12-11 15:19:42,135 INFO [root] [base.py (base_click: 41)] - 正在对：('css selector', "[title='我要租房']")元素进行点击操作 
+2021-12-11 15:19:42,136 INFO [root] [base.py (base_find: 15)] - 正在查找：('css selector', "[title='我要租房']")元素 
+2021-12-11 15:19:46,459 INFO [root] [base.py (base_find: 15)] - 正在查找：('css selector', '#searchtxt')元素 
+2021-12-11 15:19:47,477 INFO [root] [base.py (base_input: 32)] - 正在对：('css selector', '#searchtxt')元素进行清空操作 
+2021-12-11 15:19:47,523 INFO [root] [base.py (base_input: 35)] - 正在对：('css selector', '#searchtxt')元素 输入：金水区内容操作 
+2021-12-11 15:19:48,596 INFO [root] [base.py (base_click: 41)] - 正在对：('css selector', '.btn-submit ')元素进行点击操作 
+2021-12-11 15:19:48,596 INFO [root] [base.py (base_find: 15)] - 正在查找：('css selector', '.btn-submit ')元素 
+2021-12-11 15:19:49,431 INFO [root] [web_base.py (web_base_click_element: 13)] - 正在对：('xpath', "//span[text()='朝向不限']")元素点击复选框 
+2021-12-11 15:19:50,433 INFO [root] [base.py (base_click: 41)] - 正在对：('xpath', "//span[text()='朝向不限']")元素进行点击操作 
+2021-12-11 15:19:50,433 INFO [root] [base.py (base_find: 15)] - 正在查找：('xpath', "//span[text()='朝向不限']")元素 
+2021-12-11 15:20:42,387 INFO [root] [page_login.py (page_login_success: 80)] - 正在调用登录业务方法，用户名：17875512080 密码：au123456 
+2021-12-11 15:20:43,389 INFO [root] [base.py (base_click: 41)] - 正在对：('xpath', "//* [text()='登录']")元素进行点击操作 
+2021-12-11 15:20:43,389 INFO [root] [base.py (base_find: 15)] - 正在查找：('xpath', "//* [text()='登录']")元素 
+2021-12-11 15:20:46,223 INFO [root] [base.py (base_click: 41)] - 正在对：('css selector', '.toggleRight')元素进行点击操作 
+2021-12-11 15:20:46,224 INFO [root] [base.py (base_find: 15)] - 正在查找：('css selector', '.toggleRight')元素 
+2021-12-11 15:20:46,323 INFO [root] [base.py (base_find: 15)] - 正在查找：('css selector', '#mobile')元素 
+2021-12-11 15:20:47,352 INFO [root] [base.py (base_input: 32)] - 正在对：('css selector', '#mobile')元素进行清空操作 
+2021-12-11 15:20:47,443 INFO [root] [base.py (base_input: 35)] - 正在对：('css selector', '#mobile')元素 输入：17875512080内容操作 
+2021-12-11 15:20:47,639 INFO [root] [base.py (base_find: 15)] - 正在查找：('css selector', '#password')元素 
+2021-12-11 15:20:48,661 INFO [root] [base.py (base_input: 32)] - 正在对：('css selector', '#password')元素进行清空操作 
+2021-12-11 15:20:48,724 INFO [root] [base.py (base_input: 35)] - 正在对：('css selector', '#password')元素 输入：au123456内容操作 
+2021-12-11 15:20:50,876 INFO [root] [base.py (base_click: 41)] - 正在对：('css selector', '#submitButton')元素进行点击操作 
+2021-12-11 15:20:50,876 INFO [root] [base.py (base_find: 15)] - 正在查找：('css selector', '#submitButton')元素 
+2021-12-11 15:20:51,956 INFO [root] [base.py (base_click: 41)] - 正在对：('css selector', "[title='我要租房']")元素进行点击操作 
+2021-12-11 15:20:51,956 INFO [root] [base.py (base_find: 15)] - 正在查找：('css selector', "[title='我要租房']")元素 
+2021-12-11 15:20:55,337 INFO [root] [base.py (base_find: 15)] - 正在查找：('css selector', '#searchtxt')元素 
+2021-12-11 15:20:56,351 INFO [root] [base.py (base_input: 32)] - 正在对：('css selector', '#searchtxt')元素进行清空操作 
+2021-12-11 15:20:56,388 INFO [root] [base.py (base_input: 35)] - 正在对：('css selector', '#searchtxt')元素 输入：金水区内容操作 
+2021-12-11 15:20:57,512 INFO [root] [base.py (base_click: 41)] - 正在对：('css selector', '.btn-submit ')元素进行点击操作 
+2021-12-11 15:20:57,512 INFO [root] [base.py (base_find: 15)] - 正在查找：('css selector', '.btn-submit ')元素 
+2021-12-11 15:21:00,097 INFO [root] [web_base.py (web_base_click_element: 13)] - 正在对：('xpath', "//span[text()='朝向不限']")元素点击复选框 
+2021-12-11 15:21:01,098 INFO [root] [base.py (base_click: 41)] - 正在对：('xpath', "//span[text()='朝向不限']")元素进行点击操作 
+2021-12-11 15:21:01,099 INFO [root] [base.py (base_find: 15)] - 正在查找：('xpath', "//span[text()='朝向不限']")元素 
+2021-12-11 15:21:01,224 INFO [root] [web_base.py (web_base_click_element: 17)] - 正在点击包含文本显示：('xpath', "//a[text()='南']")元素 
+2021-12-11 15:21:02,224 INFO [root] [base.py (base_click: 41)] - 正在对：('xpath', "//a[text()='南']")元素进行点击操作 
+2021-12-11 15:21:02,224 INFO [root] [base.py (base_find: 15)] - 正在查找：('xpath', "//a[text()='南']")元素 
+2021-12-11 15:21:03,531 INFO [root] [base.py (base_click: 41)] - 正在对：('xpath', "//*[@id='list-content-ul']/li[1]/a/img")元素进行点击操作 
+2021-12-11 15:21:03,531 INFO [root] [base.py (base_find: 15)] - 正在查找：('xpath', "//*[@id='list-content-ul']/li[1]/a/img")元素 
+2021-12-11 15:21:04,796 INFO [root] [base.py (base_click: 41)] - 正在对：('css selector', '.icons_rt70')元素进行点击操作 
+2021-12-11 15:21:04,796 INFO [root] [base.py (base_find: 15)] - 正在查找：('css selector', '.icons_rt70')元素 

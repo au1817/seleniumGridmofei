@@ -1,0 +1,4 @@
+testlogin001:
+  username: "17875512080"
+  pwd: "au123456"
+  expect: "178****2080"
