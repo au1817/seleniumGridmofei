@@ -13,7 +13,7 @@ class TestRent:
         # 获取统一入口PageIn对象
         self.page_in = PageIn(driver)
         # 获取PageIn对象调用成功登录依赖方法
-        self.page_in.page_get_PageLogin().page_login_success()
+        # self.page_in.page_get_PageLogin().page_login_success()
         # 获取PageRent页面对象
         self.rent = self.page_in.page_get_PageRent()
 
